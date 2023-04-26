@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Architecture
 - 🌱 I’m currently learning .NET Blazor and many others
 - 💞️ I’m looking to collaborate on Haskell and Plutus
-- 📫 How to reach me batiridis.maximos@outlook.com
+- 📫 How to reach me batiridis.maxim@outlook.com
 
 <!---
 bmaximus/bmaximus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
