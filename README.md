@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmaximus
-- 👀 I’m interested in Software Architecture
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning .NET Blazor and many others
 - 💞️ I’m looking to collaborate on Haskell and Plutus
 - 📫 How to reach me batiridis.maxim@outlook.com
